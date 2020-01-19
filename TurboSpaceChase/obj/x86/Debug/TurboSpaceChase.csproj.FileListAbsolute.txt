@@ -1,0 +1,152 @@
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\box.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\energybar.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\missel.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\01_menu.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\02_telaEscolha.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\03_jogo.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\arrow_up.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\uml\uml_basico_star_control.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\font.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\menufont.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseship.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackship.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\asteroid.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\exploding.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser_duplo.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackshipshield.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseshipshield.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\box.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\energybar.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\asteroid.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\01_menu.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\02_telaEscolha.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\03_jogo.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\arrow_up.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\exploding.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseship.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackship.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\uml\uml_basico_star_control.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\font.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\menufont.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser2.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\Rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\colisao.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\explode.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\somtiro.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.wma
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp1.xnb
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp2.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\box.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\energybar.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\asteroid.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\flare.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser2.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\Rocket.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\01_menu.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\02_telaEscolha.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\03_jogo.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\arrow_up.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\exploding.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseship.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackship.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\uml\uml_basico_star_control.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp1.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp2.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\font.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\menufont.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\colisao.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\explode.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\somtiro.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\flare.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\rocket.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.xnb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.wma
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.exe
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.exe
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\box.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\energybar.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\asteroid.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser2.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\Rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\01_menu.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\02_telaEscolha.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\03_jogo.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\arrow_up.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\exploding.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseship.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackship.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\uml\uml_basico_star_control.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp1.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp2.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\font.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\menufont.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\colisao.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\explode.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\somtiro.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.xnb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.wma
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\box.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\energybar.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\asteroid.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\laser2.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\Rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\01_menu.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\02_telaEscolha.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\03_jogo.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\arrow_up.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\exploding.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\defenseship.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\attackship.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\uml\uml_basico_star_control.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp1.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\imagens\posp2.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\EnergyBar\font.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\Tela\menufont.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\colisao.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\explode.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\somtiro.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\flare.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\rocket.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.xnb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\Content\audios\musica.wma
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\bin\x86\Debug\TurboSpaceChase.pdb
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.exe
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChase\obj\x86\Debug\TurboSpaceChase.pdb

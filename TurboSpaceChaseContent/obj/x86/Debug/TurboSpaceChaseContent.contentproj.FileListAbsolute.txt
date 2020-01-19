@@ -1,0 +1,4 @@
+C:\Users\Enzo\Documents\PUCPR\FUNDAMENTOS DE MATEMATICA E FISICA\JOGO STAR CONTROL\TURBO SPACE CHASE - XNA\TurboSpaceChase\TurboSpaceChase\TurboSpaceChaseContent\obj\x86\Debug\TurboSpaceChaseContent.contentprojResolveAssemblyReference.cache
+C:\Users\Oscar\Dropbox\TURBOSPACECHASE\TurboSpaceChase\TurboSpaceChase\TurboSpaceChaseContent\obj\x86\Debug\TurboSpaceChaseContent.contentprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\PUCPR\TEMP\TurboSpaceChase\TurboSpaceChaseContent\obj\x86\Debug\TurboSpaceChaseContent.contentprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\PUCPR\TurboSpaceChase\TurboSpaceChase\TurboSpaceChaseContent\obj\x86\Debug\TurboSpaceChaseContent.contentprojResolveAssemblyReference.cache
